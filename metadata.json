@@ -1,0 +1,8 @@
+{
+  "name": "Central de Aplicativos",
+  "description": "Vitrine de web apps práticos com busca rápida, filtros por categoria, cadastro interativo e links diretos de pagamento.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
